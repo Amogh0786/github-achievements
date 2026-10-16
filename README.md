@@ -20,3 +20,5 @@ A repository to track and unlock GitHub profile achievements.
 This pull request contains a co-authored commit with `octocat@github.com` to unlock the **Pair Extraordinaire** badge.
 
 <!-- Co-author with Linus -->
+
+<!-- Pair Co-author: Amogh0786 -->
